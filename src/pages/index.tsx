@@ -36,7 +36,7 @@ export default function Home() {
                         <div className={`${styles.gap1} ${styles.social}`}>
                             <h3 className={`${styles.h3home}`}>Instagram</h3>
                             <div
-                                className={`${styles.flex} ${styles.flexcustom} ${styles.gap1}`}
+                                className={`${styles.flex} ${styles.social} ${styles.gap1}`}
                             >
                                 <a
                                     href="https://www.instagram.com/thainasennafotografia/"
